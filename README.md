@@ -208,4 +208,4 @@ Which stocks have RSI above 60 this week?
 ## 👤 Author
 
 Built by **Balaji R** — AI Engineer  
-[LinkedIn](https://linkedin.com/in/yourprofile) · [GitHub](https://github.com/yourusername)
+[LinkedIn](https://linkedin.com/in/balaji-r-06b68b289) · [GitHub](https://github.com/BalajiR-CODER)
